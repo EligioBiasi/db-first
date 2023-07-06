@@ -1,3 +1,16 @@
 Nome della tabella: macchine
 
 
+modello                             stringa                 VARCHART(40)
+marca                               stringa                 VARCHART(40)
+anno_di_immatricolazione            data                    DATE
+matricola                           stringa                 VARCHART(100)
+classe_emissioni                    intero                  TINYINT
+prezzo                              FLOAT                   FLOAT(8,2)
+numero_di_porte                     intero                  TINYINT
+incidenti                           stringa                 TEXT
+usato                               stringa                 VARCHART(100)
+kilometri                           FLOAT                   FLOAT(8,2)
+cambio                              stringa                 VARCHART(40)
+carburante                          stringa                 VARCHART(40)
+              
